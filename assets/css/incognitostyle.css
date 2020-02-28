@@ -326,6 +326,11 @@ ul.tsc_pagination li a.current
         margin-top: 40px;
         width: 180px;
     }
+    .sponsor
+    {
+        margin-top: 0px;
+        width: 180px;
+    }
 @media screen and (min-width: 600px) {
 
     
