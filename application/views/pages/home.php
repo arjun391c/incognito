@@ -9,7 +9,7 @@
 			<img class="banner img-fluid" src="<?php echo base_url('assets/img/hestia_banner.png');?>"> </img>
 			<h3 class="Dagger colwhite ">Sponsored By</h3>
 
-			<img  id="spnsr" src="<?php echo base_url('assets/img/sponsor.png');?>"> </img>
+			<img class="hestia" id="spnsr" src="<?php echo base_url('assets/img/sponsor.png');?>"> </img>
 
 		</div>
 		
