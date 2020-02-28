@@ -17,9 +17,23 @@
         <div class="container">
          
           <div class="row">
-            <h4 class="Dagger colwhite">Event Coordinators</h4>
+            <h3 class="Dagger colwhite">Event Coordinators</h3>
           </div>
-          <div class="row">
+        <div class="row">
+		<h5 class="text-white" id="about" style="text-align: justify; font-size: 1.2em; font-weight:bold; color:white;">VISHNU</h5>
+             
+          </div>
+        <div class="row">
+             <p class="Dagger colwhite">&nbsp;Phone: 6238542354</p>
+          </div>
+        <div class="row">
+             <h5 class="text-white" id="about" style="text-align: justify; font-size: 1.2em; font-weight:bold; color:white;">ALBERT</h5>
+          </div>
+        <div class="row">
+             <p class="Dagger colwhite">&nbsp;Phone: 8078015446</p>
+          </div>
+        
+         <!-- <div class="row">
              <a href="#"><img class="" src="<?php echo base_url('assets/img/akshay.jpg')?>"></a>
               
           </div>
@@ -27,16 +41,14 @@
              <p class="Dagger colwhite">Akshay M</p>
           </div>
           
-         <!--  <div class="row">
-            <h4 class="Dagger colwhite">Front End Design</h4>
-          </div> -->
+         
           <div class="row">
             <a href="#"><img class="" src="<?php echo base_url('assets/img/keerthi.jpg')?>"></a>
           </div>
                                       <div class="row">
              <p class="Dagger colwhite">Keerthi V</p>
            </div>
-          
+          -->
         </div>
       </div>
       <div class="modal-footer">
