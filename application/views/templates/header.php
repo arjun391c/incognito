@@ -3,9 +3,9 @@
 <head>
 	<title><?php echo $title ?></title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Incognito - Online treasure hunt of Hestia 19 - National level Techno Cultural fest organized by TKM College of Engineering.">
+	<meta name="description" content="Incognito - Online treasure hunt of Hestia 20 - National level Techno Cultural fest organized by TKM College of Engineering.">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-        <meta name="keywords" content="incognito,treasurehunt,hestia,hestia19,tkmce,hestiatkm,hestiatkmce,conjura,fest,event,technical,cultural,technocultural">
+        <meta name="keywords" content="incognito,treasurehunt,hestia,hestia20,tkmce,hestiatkm,hestiatkmce,conjura,fest,event,technical,cultural,technocultural">
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135958084-1"></script>
         <script>
@@ -62,7 +62,6 @@ $this->load->library('session');
 $user_id=$this->session->userdata('userid');
 if($user_id!=FALSE) : ?>
 <li class="Dagger600 <?php echo $actprof ?>"><a href="<?php echo base_url('index.php/profile')?>">Profile</a></li>
-<li class="Dagger600"><a href="https://www.instagram.com/p/Bu_ow15nWvx/?utm_source=ig_share_sheet&igshid=xyarmd307bjh" target="_blank">Iphone X Giveaway</a></li>
 
 </ul>
 <ul class="nav navbar-nav navbar-right" >
@@ -71,4 +70,3 @@ if($user_id!=FALSE) : ?>
 <?php endif ?>
 </div>
 </nav>
-
