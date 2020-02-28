@@ -32,11 +32,11 @@
 
 			<br>
 
-			<li><h3 class="Dagger colwhite">  You can find the hints for some levels in page source, file download, URL, cookies, Hestia’19 website, Incognito facebook page, Instagram page, image names etc.</h3></li>
+			<li><h3 class="Dagger colwhite">  You can find the hints for some levels in page source, file download, URL, cookies, Hestia’20 website, Incognito facebook page, Instagram page, image names etc.</h3></li>
 
 			<br>
 
-			<li><h3 class="Dagger colwhite">  You will complete a phase by making it through the 20 levels. There will be a total of 2 phases, spanning a week each.</h3></li>
+			<li><h3 class="Dagger colwhite"> You will complete the competition by solving all 25 levels one after another. First person from each table to solve the last level will be the winner.</h3></li>
 
 			<br>
 
