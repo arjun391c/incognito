@@ -10,7 +10,7 @@
 			
 			<h3 class="Dagger colwhite ">Sponsored By</h3>
 
-			<img class="img-fluid" id="spnsr" src="<?php echo base_url('assets/img/sponsor.png');?>"> </img>
+			<img class="banner img-fluid" id="spnsr" src="<?php echo base_url('assets/img/sponsor.png');?>"> </img>
 
 		</div>
 		
