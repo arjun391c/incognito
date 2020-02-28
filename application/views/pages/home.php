@@ -10,7 +10,7 @@
 			
 			<h3 class="Dagger colwhite ">Sponsored By</h3>
 
-			<img class="hestia"  id="spsnr" src="<?php echo base_url('assets/img/sponsor.png');?>"> </img>
+			<img class="sponsor"  id="spsnr" src="<?php echo base_url('assets/img/sponsor.png');?>"> </img>
 
 		</div>
 		
