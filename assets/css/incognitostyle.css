@@ -342,13 +342,12 @@ ul.tsc_pagination li a.current
         height: 45px;
         font-size: 20px;
     }
-   
+    #spnsr{
+        width:400px!important;
+    }
     
 }
- #spnsr{
-        max-width:90%;
-	max-width:90%;
-    }
+ 
 
 .dropdown {
   position: relative;
