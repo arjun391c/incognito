@@ -1,4 +1,4 @@
-<div class="text-center">
+<div class="hestia20 text-center">
 
 	
 	<img class="hestia" src="<?php echo base_url('assets/img/hestia.png');?>"> </img>
