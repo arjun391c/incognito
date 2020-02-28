@@ -9,6 +9,14 @@
 			<img class="banner img-fluid" src="<?php echo base_url('assets/img/hestia_banner.png');?>"> </img>
 
 		</div>
+		<div class="text-center">
+
+			<h1 class="Dagger colwhite ">Sponsored By</h1>
+
+			<img class="banner img-fluid" src="<?php echo base_url('assets/img/sponsor.png');?>"> </img>
+
+		</div>
+
 
 	</div>
 
