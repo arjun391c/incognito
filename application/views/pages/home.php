@@ -11,9 +11,9 @@
 		</div>
 		<div class="text-center">
 
-			<h1 class="Dagger colwhite ">Sponsored By</h1>
+			<h3 class="Dagger colwhite ">Sponsored By</h3>
 
-			<img class="banner img-fluid" src="<?php echo base_url('assets/img/sponsor.png');?>"> </img>
+			<img class="banner img-fluid" width="42" src="<?php echo base_url('assets/img/sponsor.png');?>"> </img>
 
 		</div>
 
