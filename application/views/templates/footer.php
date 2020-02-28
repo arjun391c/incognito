@@ -1,8 +1,9 @@
 <div class="text-center">
 
+	<?php if(!($userdata['status']>=2)) : ?>
 	<img class="hestia" src="<?php echo base_url('assets/img/hestia.png');?>"> </img>
 	<p  id="hint" class="colwhite1 Dagger " type="button" data-toggle="modal" data-target="#myModal">Coordinators</p>
-
+	<?php endif; ?>
 
 </div>
 
