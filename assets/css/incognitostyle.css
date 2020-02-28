@@ -347,6 +347,22 @@ ul.tsc_pagination li a.current
     }
     
 }
+
+@media screen and (max-width: 370px)
+{
+    #spnsr{
+        width:250px!important;
+    }
+    } 
+
+}
+@media screen and (max-width: 370px)
+{
+    #spnsr{
+        width:200px!important;
+    }
+
+}
  
 
 .dropdown {
