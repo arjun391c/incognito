@@ -346,7 +346,8 @@ ul.tsc_pagination li a.current
     
 }
  #spnsr{
-        width:400px!important;
+        max-width:90%;
+	max-width:90%;
     }
 
 .dropdown {
