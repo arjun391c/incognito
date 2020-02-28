@@ -19,10 +19,10 @@
 
 	<div class="row">
 
-		<div class="text-center mt60" >
-			<h3 class="Dagger colblue">
+		<div class="text-center colwhite" >
+			<h2 class="Dagger colblue">
 				Hunt Begins On March 1st @ 9:30pm
-			</h3>
+			</h2>
 
 			<!--<h1 class="Dagger colwhite">
 
