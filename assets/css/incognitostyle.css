@@ -342,12 +342,12 @@ ul.tsc_pagination li a.current
         height: 45px;
         font-size: 20px;
     }
-    #spnsr{
-        width:400px;
+    .spnsr{
+        width:350px;
     }
     
 }
-
+/*
 @media screen and (max-width: 370px)
 {
     #spnsr{
@@ -362,7 +362,7 @@ ul.tsc_pagination li a.current
         width:200px;
     }
 
-}
+}*/
  
 
 .dropdown {
