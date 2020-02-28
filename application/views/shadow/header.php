@@ -9,6 +9,11 @@
    <script  src="<?php echo base_url('assets/js/jquery.min.js') ?>"></script>
    <script  src="<?php echo base_url('assets/js/bootstrap.min.js') ?>"></script>
 
+   <style>
+   div.hestia20 {
+      display:none;
+   }
+   </style>
 </head>
 <body style="color:#ffffff; background-color:#000000">
 <nav class="navbar navbar-inverse " role="navigation">
