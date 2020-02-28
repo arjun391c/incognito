@@ -19,8 +19,8 @@
 
 	<div class="row">
 
-		<div class="text-center colwhite" >
-			<h2 class="Dagger colblue">
+		<div class="text-center " >
+			<h2 class="Dagger colwhite">
 				Hunt Begins On March 1st @ 9:30pm
 			</h2>
 
