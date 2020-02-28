@@ -6,7 +6,7 @@
 
 			<h1 class="Dagger colblue">
 
-				20 levels over the span of a week. Nicely played, you! 
+				25 levels over the span of a week. Nicely played, you! 
 
 			</h1>
 
