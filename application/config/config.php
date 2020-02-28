@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'https://hesnhta.mrdev.co.in/';
+$config['base_url']	= 'https://incognito.hestia.live/';
 
 /*
 |--------------------------------------------------------------------------
