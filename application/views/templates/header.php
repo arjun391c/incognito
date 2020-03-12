@@ -26,7 +26,14 @@
    <script  src="<?php echo base_url('assets/js/bootstrap.min.js') ?>"></script>
    <script  src="<?php echo base_url('assets/js/init.js') ?>"></script>
    <link href="https://fonts.googleapis.com/css?family=Expletus+Sans:400,500,600,700" rel="stylesheet">
+	<!----------------------------------------------------------------------->
+  <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+  <link href="<?php echo base_url('assets/css/jquery.countdown.css') ?>" rel="stylesheet">
 
+
+
+
+<!----------------------------------------------------------------------->
 </head>
 <body class="back">	
 <nav class="opac navbar navbar-inverse " role="navigation">

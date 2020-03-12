@@ -47,6 +47,21 @@
         </div>
      </div>
      <?php endif;?> 
+     <div class="hestia20 text-center">
+	
+	
+	<img class="hestia" src="<?php echo base_url('assets/img/spsnr.png');?>"> </img>
+	
+
+     </div>
+     <div class="adbanner  text-center mt15">
+	
+	      <a  href="https://www.facebook.com/arcinstitutekottiyam/">
+	      <div >Sponsored By</div>
+	      <img class="adv" src="<?php echo base_url('assets/img/adbanner.gif') ?>">
+	
+        </a>
+     </div>
 
  
 </div>

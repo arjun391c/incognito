@@ -66,11 +66,11 @@ class Pages extends CI_Controller {
             if($level_data!=NULL)			//hard coded
             {
                 $page='arena'; 
-                if(($userdata['level']<=1)&&($userdata['phase']!=2))  
+               /* if((($userdata['level']>25)&&($userdata['phase']!=2))) 
                 {
-                    $data['title']='Start Phase 2';
-                    $page='jump';
-                }
+                    $data['title']='Congratulation!';
+                    $page='update';
+                }*/
             }
             else		       // ????????21
             {
@@ -87,12 +87,13 @@ class Pages extends CI_Controller {
                 if($state==1)
                 {
 		    
-                    $data['title']='Arena';//change to congratulations and top once last level is uploaded.
-                    $page='arena';
+                    $data['title']='Congratulation!';//change to congratulations and top once last level is uploaded.
+                    
+                    $page='update';
                 }
                 else
                 {
-                    $data['title']='Congratulations';
+                    $data['title']='Coming soon';
                     $page='update';
                 }
             }                   
